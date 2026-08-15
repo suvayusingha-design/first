@@ -3,5 +3,5 @@ This is my first github repository
 <br>
 Authur Suvayu  Singha
 hi
-There is more things to learn
+There is more things to learn now
 more  to go now
