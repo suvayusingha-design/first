@@ -1,7 +1,7 @@
 # first
 This is my first github repository
 <br>
-Authur Suvayu Singha
+Authur Suvayu  Singha
 hi
 There is more things to learn
 more to go now
