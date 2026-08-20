@@ -2,7 +2,7 @@
 This is my first github repository
 <br>
  Authur  Suvayu  Singha
-hi
+ hi
 There  is more  things to learn  now
 more  to  go now
  Will  learn 
