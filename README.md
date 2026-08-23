@@ -10,4 +10,4 @@ more  to  go now
  new  learning 
  need  more  work
   have  to  reset  again
-will do
+will do it
