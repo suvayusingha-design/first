@@ -6,7 +6,7 @@ This is my first github repository
 There   is more  things to learn  now
 more  to  go now
  Will  learn 
- new  things 
+ new   things 
  new  learning 
  need  more  work
   have  to  reset  again
